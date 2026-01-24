@@ -16,5 +16,9 @@
   "appearance": {
     "strict": true,
     "default": "dark"
+  },
+  "fonts": {
+    "family": "Montserrat",
+    "weight": 100
   }
 }
