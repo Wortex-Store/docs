@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "maple",
+  "theme": "palm",
   "name": "Wortex",
   "colors": {
     "primary": "#17e517",
@@ -17,7 +17,7 @@
     "default": "dark"
   },
   "fonts": {
-    "family": "Poppins",
-    "weight": 100
+    "family": "Inter",
+    "weight": 200
   }
 }
