@@ -1,13 +1,20 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Documentation",
+  "name": "Wortex",
   "colors": {
-    "primary": "#0D9373"
+    "primary": "#17e517",
+    "dark": "#17e517"
   },
   "navigation": {
     "pages": [
       "welcome"
     ]
+  },
+  "favicon": "/images/Wortex-Icon.svg",
+  "logo": "/images/Wortex-Icon.svg",
+  "appearance": {
+    "strict": true,
+    "default": "dark"
   }
 }
