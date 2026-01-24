@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "maple",
   "name": "Wortex",
   "colors": {
     "primary": "#17e517",
@@ -12,13 +12,12 @@
     ]
   },
   "favicon": "/images/Wortex-Icon.svg",
-  "logo": "/images/Wortex-Extenso.svg",
   "appearance": {
     "strict": true,
     "default": "dark"
   },
   "fonts": {
-    "family": "Montserrat",
+    "family": "Poppins",
     "weight": 100
   }
 }
