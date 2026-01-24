@@ -12,7 +12,7 @@
     ]
   },
   "favicon": "/images/Wortex-Icon.svg",
-  "logo": "/images/Wortex-Icon.svg",
+  "logo": "/images/Wortex-Extenso.svg",
   "appearance": {
     "strict": true,
     "default": "dark"
