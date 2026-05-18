@@ -7,9 +7,9 @@
     "dark": "#17e517"
   },
   "navigation": {
-    "dropdowns": [
+    "products": [
       {
-        "dropdown": "Teste",
+        "product": "Teste",
         "groups": [
           {
             "group": "Comece por aqui!",
