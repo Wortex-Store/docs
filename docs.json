@@ -7,8 +7,13 @@
     "dark": "#17e517"
   },
   "navigation": {
-    "pages": [
-      "welcome"
+    "groups": [
+      {
+        "group": "Comece por aqui!",
+        "pages": [
+          "welcome"
+        ]
+      }
     ]
   },
   "favicon": "/images/Wortex-Icon.svg",
