@@ -7,20 +7,12 @@
     "dark": "#17e517"
   },
   "navigation": {
-    "groups": [
-      {
-        "group": "Discord",
-        "icon": "compact-disc",
-        "expanded": true,
-        "pages": [
-          "teste"
-        ]
-      },
+    "pages": [
+      "discord",
+      "welcome",
       {
         "group": "Comece por aqui!",
-        "pages": [
-          "welcome"
-        ]
+        "pages": []
       }
     ]
   },
