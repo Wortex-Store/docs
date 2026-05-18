@@ -7,12 +7,23 @@
     "dark": "#17e517"
   },
   "navigation": {
-    "groups": [
+    "tabs": [
       {
-        "group": "Comece por aqui!",
-        "pages": [
-          "welcome"
+        "tab": "Documentação",
+        "groups": [
+          {
+            "group": "Comece por aqui!",
+            "pages": [
+              "welcome"
+            ]
+          }
         ]
+      },
+      {
+        "tab": "Site"
+      },
+      {
+        "tab": "Discord"
       }
     ]
   },
