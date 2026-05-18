@@ -7,16 +7,19 @@
     "dark": "#17e517"
   },
   "navigation": {
-    "products": [
+    "groups": [
       {
-        "product": "Teste",
-        "groups": [
-          {
-            "group": "Comece por aqui!",
-            "pages": [
-              "welcome"
-            ]
-          }
+        "group": "Discord",
+        "icon": "compact-disc",
+        "expanded": true,
+        "pages": [
+          "teste"
+        ]
+      },
+      {
+        "group": "Comece por aqui!",
+        "pages": [
+          "welcome"
         ]
       }
     ]
