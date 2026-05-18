@@ -7,9 +7,9 @@
     "dark": "#17e517"
   },
   "navigation": {
-    "tabs": [
+    "dropdowns": [
       {
-        "tab": "Documentação",
+        "dropdown": "Teste",
         "groups": [
           {
             "group": "Comece por aqui!",
@@ -18,17 +18,6 @@
             ]
           }
         ]
-      },
-      {
-        "tab": "Site",
-        "menu": [
-          {
-            "item": "teste"
-          }
-        ]
-      },
-      {
-        "tab": "Discord"
       }
     ]
   },
