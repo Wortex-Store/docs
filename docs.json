@@ -10,10 +10,11 @@
     "pages": [
       "site",
       "discord",
-      "welcome",
       {
         "group": "Comece por aqui!",
-        "pages": []
+        "pages": [
+          "welcome"
+        ]
       }
     ]
   },
