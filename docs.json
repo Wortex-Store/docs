@@ -20,7 +20,12 @@
         ]
       },
       {
-        "tab": "Site"
+        "tab": "Site",
+        "menu": [
+          {
+            "item": "teste"
+          }
+        ]
       },
       {
         "tab": "Discord"
