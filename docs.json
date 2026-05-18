@@ -8,6 +8,7 @@
   },
   "navigation": {
     "pages": [
+      "site",
       "discord",
       "welcome",
       {
